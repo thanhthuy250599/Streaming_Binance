@@ -7,7 +7,7 @@ psycopg2-binary==2.9.10
 # Development dependencies
 pytest==7.4.3
 black==23.9.1
-flake8==6.1.0
+flake8==7.3.0
 
 # Monitoring
 prometheus-client==0.17.1
