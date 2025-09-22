@@ -1,0 +1,19 @@
+# Global code owners
+* @maintainer1
+
+# Python files
+*.py @python-team
+
+# Docker files
+docker-compose.yml @devops-team
+Dockerfile* @devops-team
+
+# Documentation
+README.md @docs-team
+docs/ @docs-team
+
+# CI/CD
+.github/workflows/ @devops-team
+
+# Tests
+tests/ @testing-team
