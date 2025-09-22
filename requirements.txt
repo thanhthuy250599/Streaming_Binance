@@ -6,7 +6,7 @@ psycopg2-binary==2.9.10
 
 # Development dependencies
 pytest==7.4.3
-black==23.9.1
+black==25.9.0
 flake8==6.1.0
 
 # Monitoring
