@@ -53,8 +53,7 @@ fi
 
 # Install dependencies
 echo "[INSTALL] Installing Python dependencies..."
-$PY -m pip install -r producers/requirements.txt
-$PY -m pip install psycopg2-binary
+$PY -m pip install -r requirements.txt
 
 # 4. Start Producer
 echo "[PRODUCER] Starting Binance WebSocket Producer..."
