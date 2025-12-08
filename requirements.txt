@@ -5,7 +5,7 @@ orjson==3.10.7
 psycopg2-binary==2.9.10
 
 # Development dependencies
-pytest==7.4.3
+pytest==9.0.2
 black==23.9.1
 flake8==6.1.0
 
